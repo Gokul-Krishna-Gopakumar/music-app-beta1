@@ -1,0 +1,31 @@
+.controls-wrapper {
+  width: 50%;
+  margin: 0px;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.action-btn {
+  width: 50px;
+  height: 50px;
+  color: #a192bf;
+  background-color: #433168;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.action-play-pause {
+  width: 50px;
+  height: 50px;
+  color: #a192bf;
+  background-color: #433168;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

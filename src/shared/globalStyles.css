@@ -1,0 +1,19 @@
+.screen-container{
+    width: calc(100% - 100px);
+    height: 100%;
+    background-color: #000000;
+    border-radius: 30px ;
+    display: flex;
+    margin: 0;
+    background-color: #000000;
+    opacity: 1;
+    background-image:  
+    repeating-radial-gradient( 
+        circle at center left, 
+        transparent 0, 
+      #000000 60px ), 
+    repeating-linear-gradient( #38275d5d, #20163c9d );
+}
+.flex{
+  display: flex;
+}
